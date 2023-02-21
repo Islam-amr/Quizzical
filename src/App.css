@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: #F5F7FB;
+  padding: 20px;
+  font-family: 'Inter', sans-serif;
+}
+
+button{
+  background-color: #4D5B9E;
+  color: #F5F7FB;
+  border: none;
+  width: 193px;
+  height: 52px;
+  border-radius: 15px;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+}
